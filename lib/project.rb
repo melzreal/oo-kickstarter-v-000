@@ -1,8 +1,8 @@
 class Project
   attr_accessor :backer
 
-  def initialize 
-    @backers = [] 
-  end 
+  def initialize
+    @backers = []
+  end
 
-end 
+end
