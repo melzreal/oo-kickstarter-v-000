@@ -2,7 +2,7 @@ class Project
   attr_accessor :backer, :title
 
   def initialize(title)
-    @titkle = title
+    @title = title
     @backers = []
   end
 
